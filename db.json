@@ -1,0 +1,190 @@
+{
+  "empresas": [
+    {
+      "id": "1",
+      "categoriaId": 1,
+      "img": "https://i.pinimg.com/originals/6e/3d/66/6e3d665fd003878046f85da5a2a2eaff.png",
+      "empresa": "Tripoides David",
+      "extracto": "En Tripoides David, nos destacamos como la mejor opción para tu vehículo. Ofrecemos una amplia gama de productos...",
+      "descripcion": "En Tripoides David, nos destacamos como la mejor opción para tu vehículo. Ofrecemos una amplia gama de productos, incluyendo amortiguadores, tricetas, copa caja, muñones y mucho más.",
+      "telefono": "+58 414-6700202",
+      "whatsapp": "https://wa.me/584146700202",
+      "mapa": "https://maps.app.goo.gl/GfpH4R1tvyfkhLuh7",
+      "redes": [
+        {
+          "instagram": "https://www.instagram.com/tripoides_david/",
+          "facebook": "https://www.facebook.com/profile.php?id=100075897584598",
+          "youtube": ""
+        }
+      ],
+      "imagenes": [
+        "logo.png",
+        "1.png",
+        "2.png",
+        "3.png",
+        "4.png"
+      ],
+      "direccion": "En la Avenida La Limpia Sector panamericano"
+    },
+    {
+      "id": "2",
+      "categoriaId": 1,
+      "img": "https://i.pinimg.com/originals/6e/3d/66/6e3d665fd003878046f85da5a2a2eaff.png",
+      "empresa": "BF Interiores",
+      "extracto": "Somos una empresa especializada en la fabricación de butacas originales con conceptos únicos para concesionarios y particulares...",
+      "descripcion": "Somos una empresa especializada en la fabricación de butacas originales con conceptos únicos para concesionarios y particulares. Además, desarrollamos estilos personalizados y también atendemos la industria de mueblerías, así como el tapizado de lanchas y aviones.",
+      "telefono": "+58 414-6145309",
+      "whatsapp": "https://wa.me/584146145309",
+      "mapa": "https://maps.app.goo.gl/iU5FZmG1r3ZJu3y2A",
+      "redes": [
+        {
+          "instagram": "https://www.instagram.com/butacasyforros/",
+          "facebook": "",
+          "youtube": ""
+        }
+      ],
+      "imagenes": [
+        "logo.png",
+        "1.png",
+        "2.png",
+        "3.png",
+        "4.png"
+      ],
+      "direccion": "En Maracaibo Sector  Tierra Negra calle 70 con av 9b"
+    },
+    {
+      "id": "3",
+      "categoriaId": 2,
+      "img": "https://www.shutterstock.com/image-illustration/car-parts-auto-spare-isolated-260nw-2283939101.jpg",
+      "empresa": "Repuesmel",
+      "extracto": "En Repuesmel,somos tu tienda de repuestos y servicios de confianza...",
+      "descripcion": "Todo en plástico reforzado Líderes en el mercado con más de 38 años de experiencia.Fabricación y distribución de fibra de vidrio.",
+      "telefono": "+58 414-0625567",
+      "whatsapp": "https://wa.me/584140625567",
+      "mapa": "https://maps.app.goo.gl/xh3aGx98jEhXHBwG9",
+      "redes": [
+        {
+          "instagram": "https://www.instagram.com/repuesmel/",
+          "facebook": "https://www.facebook.com/profile.php?id=100066781474352",
+          "youtube": ""
+        }
+      ],
+      "imagenes": [
+        "logo.png",
+        "1.png",
+        "2.png",
+        "3.png",
+        "4.png"
+      ],
+      "direccion": "En la Avenida 9b Entre Calle 86A y 87"
+    },
+    {
+      "id": "4",
+      "categoriaId": 4,
+      "img": "https://es.glassfiberfactory.com/uploads/202237801/graphite-coated-fiberglass-cloth13272338828.jpg",
+      "empresa": "Campres",
+      "extracto": "Todo en plástico reforzado Líderes en el mercado con más de 38 años de experiencia...",
+      "descripcion": "Todo en plástico reforzado Líderes en el mercado con más de 38 años de experiencia.Fabricación y distribución de fibra de vidrio.",
+      "telefono": "+58 414-6085621",
+      "whatsapp": "wa.me/+584146085621",
+      "mapa": "https://maps.app.goo.gl/bsfx7GuPqiWEthMLA",
+      "redes": [
+        {
+          "instagram": "https://www.instagram.com/campre.oficial/",
+          "facebook": "https://www.facebook.com/profile.php?id=100090415705649",
+          "youtube": ""
+        }
+      ],
+      "imagenes": [
+        "logo.png",
+        "1.png",
+        "2.png",
+        "3.png",
+        "4.png"
+      ],
+      "direccion": "En Circunvalación N# 2 Av. 58 calles 98 y 99 Edif. CAMPRE N° 98D-274, Maracaibo,Venezuela 4001"
+    },
+    {
+      "id": "5",
+      "categoriaId": 4,
+      "img": "https://es.glassfiberfactory.com/uploads/202237801/graphite-coated-fiberglass-cloth13272338828.jpg",
+      "empresa": "Superkote",
+      "extracto": "Superkote 2000 es un tratamiento para metales y combustible que se puede utilizar en sistemas de lubricación, tanques de combustible y otros equipos.",
+      "descripcion": "Somos una empresa especializada en la fabricación de butacas originales con conceptos únicos para concesionarios y particulares. Además, desarrollamos estilos personalizados y también atendemos la industria de mueblerías, así como el tapizado de lanchas y aviones.",
+      "telefono": "+58 414-6437352",
+      "whatsapp": "https://wa.me/584146437352",
+      "mapa": "https://maps.app.goo.gl/1rZY1eJJ55krC56N7-Venezuela ubicación general",
+      "redes": [
+        {
+          "instagram": "https://www.instagram.com/superkote2000ve/",
+          "facebook": "https://www.facebook.com/superkote2000ve",
+          "youtube": "https://www.youtube.com/@superkoteveVenezuela"
+        }
+      ],
+      "imagenes": [
+        "logo.png",
+        "1.png",
+        "2.png",
+        "3.png",
+        "4.png"
+      ],
+      "direccion": "En Todo el territorio Venezolano"
+    },
+    {
+      "id": "20",
+      "categoriaId": 1,
+      "img": "https://i.pinimg.com/originals/6e/3d/66/6e3d665fd003878046f85da5a2a2eaff.png",
+      "empresa": "Jose Dyer",
+      "extracto": "Empresa de tecnologia...",
+      "descripcion": "Desarrollo de sistemas web .",
+      "telefono": "+58 412-7517383",
+      "whatsapp": "https://wa.me/584127517383",
+      "mapa": "https://maps.app.goo.gl/GfpH4R1tvyfkhLuh7",
+      "redes": [
+        {
+          "instagram": "https://www.instagram.com/jd/",
+          "facebook": "https://www.facebook.com/profile.php?id=100075897584598",
+          "youtube": ""
+        }
+      ],
+      "imagenes": [
+        "logo.png",
+        "1.png",
+        "2.png",
+        "3.png",
+        "4.png"
+      ],
+      "direccion": "En la Avenida La Limpia"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "talleres",
+      "descripcion": "Listado de talleres afiliados en el Zulia",
+      "enlace": "pg/talleres/",
+      "iconocategoria": "imagenes/iconos/talleres.png"
+    },
+    {
+      "id": "2",
+      "nombre": "repuestos",
+      "descripcion": "Listado de tiendas de Repuestos  afiliados en el Zulia",
+      "enlace": "pg/repuestos/",
+      "iconocategoria": "imagenes/iconos/respuestos.png"
+    },
+    {
+      "id": "3",
+      "nombre": "autolavados",
+      "descripcion": "Listado de Autolavados afiliados en el Zulia",
+      "enlace": "pg/autolavados/",
+      "iconocategoria": "imagenes/iconos/autolavados.png"
+    },
+    {
+      "id": "4",
+      "nombre": "productos",
+      "descripcion": "Listado Empresas de Productos Mayor y Detal en el Zulia",
+      "enlace": "pg/productos/",
+      "iconocategoria": "imagenes/iconos/productos.png"
+    }
+  ]
+}
